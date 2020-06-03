@@ -13,6 +13,14 @@ module.exports = {
             { text: "eguamat", link: '/introducao/eguamat/' },
             { text: "github", link: 'https://github.com/eguatech' }
         ],
+
+        '/': {
+            sidebar: 'auto'
+        },
+
+        '/introducao': {
+            sidebar: 'auto'
+        },
         sidebar: {
             '/egua/': [
                 '',
