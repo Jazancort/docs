@@ -14,15 +14,19 @@ module.exports = {
             { text: "github", link: 'https://github.com/eguatech' }
         ],
 
-        'introducao': {
-            sidebar: 'auto'
-        },
-
         sidebar: {
             '/egua/': [
                 '',
                 'funcao'
+            ],
+
+            '/introducao/':[
+                '',
+                'IDEgua',
+                'modulos',
+                'contribuindo'
             ]
+
         },
         logo: "/images/logo.png"
     },

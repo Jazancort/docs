@@ -1,4 +1,4 @@
-## funções
+# Funções
 
 As funções do Egua vêm em dois tipo - funções padrão e funções anonimas.
 
