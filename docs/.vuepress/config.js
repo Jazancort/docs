@@ -14,13 +14,8 @@ module.exports = {
             { text: "github", link: 'https://github.com/eguatech' }
         ],
 
-        '/': {
-            sidebar: 'auto'
-        },
-
-        '/introducao': {
-            sidebar: 'auto'
-        },
+        sidebar:'auto',
+        
         sidebar: {
             '/egua/': [
                 '',
