@@ -8,9 +8,9 @@ module.exports = {
         nav: [
             { text: "Home", link: '/' },
             { text: "egua", link: '/egua/' },
-            { text: "eguap", link: '/introducao/eguap/' },
-            { text: "eguac", link: '/introducao/eguac/' },
-            { text: "eguamat", link: '/introducao/eguamat/' },
+            { text: "eguap", link: '/eguap/' },
+            { text: "eguac", link: 'eguac/' },
+            { text: "eguamat", link: '/eguamat/' },
             { text: "github", link: 'https://github.com/eguatech' }
         ],
 
